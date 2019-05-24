@@ -2,7 +2,7 @@ class Tgenv < Formula
   desc "Terragrunt version manager inspired by tfenv"
   homepage "https://github.com/sigsegv13/tgenv"
   url "https://github.com/sigsegv13/tgenv/archive/v0.0.2.tar.gz"
-  sha256 "0f6dcf1ab3fdf8bfd3d237bfb1cc20e97c2b1895dc40aaae7ea17f2711a444d3"
+  sha256 "0273a0e2f7433b646d5eddef4eb3ee8b9d5b011b4aba62752093192692966d93"
   head "https://github.com/sigsegv13/tgenv.git"
 
   bottle :unneeded
